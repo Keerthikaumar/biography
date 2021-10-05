@@ -1,0 +1,73 @@
+.heading{
+    background-color:pink;
+    text-align: center;
+    color: red;
+    font-size: 35px;
+  }
+  .about-site{
+    font-size: 20px;
+    opacity: 1;
+  }
+  .title{
+    font-weight: bold;
+  }
+ h1{
+   text-align: center;
+   color:mediumvioletred;
+   background-color: navajowhite;
+   font-style: italic;
+    text-align: left;
+    opacity: 0.8;
+ }
+  body{
+    font-family: Georgia;
+  }
+  img{
+      height: 200px;
+      width: 200px;
+  }
+ .header{
+   text-align: center;
+ }
+ .about-site{
+   text-align: center;
+   background-color: rgb(105, 168, 168);
+   font-size: 20px;
+ }
+.right{
+  
+  color: rgb(122, 2, 86);
+}
+  .nav{
+    text-align: center; 
+    list-style: none;
+  }
+.button{
+  background-color: rgb(235, 231, 26);
+  border-radius: 10%;
+  border-color: maroon;
+  border-width: 3px;
+  margin-left: 10px;
+}
+.left{
+  color: rgb(128, 3, 30);
+}
+  h3{
+      font-style: oblique;
+      font-weight: bold;
+      color: rgb(48, 3, 85);
+  }
+  a.active,a:hover{
+    background: rgb(195, 108, 238);
+    transition: .5s;
+  }
+  .nav-link{
+    color: maroon;
+    font-size: 18px;
+    text-decoration-style: none;
+    text-decoration-color: red;
+  }
+  .image{
+    width: 250px;
+    height: 300px;
+  }
